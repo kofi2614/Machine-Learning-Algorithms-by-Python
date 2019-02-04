@@ -1,3 +1,4 @@
+#gradient descent for linear regression
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.datasets import load_boston
